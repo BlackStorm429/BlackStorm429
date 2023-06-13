@@ -19,6 +19,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="42" alt="C logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="C++ logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" width="42" alt="Java logo" />
+  <img src="https://repository-images.githubusercontent.com/331129418/7eba9d00-5b81-11eb-916c-487d16d323be" height="30" width="42" alt="SQL logo" />
+  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="30" width="42" alt="Verilog logo" />
 </div>
 
 ###
