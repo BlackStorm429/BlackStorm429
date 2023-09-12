@@ -1,6 +1,6 @@
 <h2 align="center">Hello my name is Lara, and I'm from Brazil!</h2>
 
-- 💡 Estou no 3° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
+- 💡 Estou no 4° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
 - 📜 Aprendendo sobre as linguagens C, C++, Java, HTML, CSS, Javascript, Verilog e SQL.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 - 📫 Contate-me pelo e-mail: larasouza429@gmail.com
