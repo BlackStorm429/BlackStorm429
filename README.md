@@ -11,13 +11,16 @@
 </div>
 
 ### Languages
-
 <p>
   <img src="https://camo.githubusercontent.com/c2b1ed2803894e042e9fe8b411a627d1a6c0ccc7fbf6da80416926aeb2ad2404/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c6a732c68746d6c2c6373732c632c6370702c6373" />
 </p>
 
-### Social Media
+### Tools
+<p>
+  <img src="https://camo.githubusercontent.com/cc27afe34c0ab71353f9c2b32d3085aa3baacb0b4cb1e6e14e2b21d656212fe4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c7673636f64652c6669676d612c646973636f72642c" />
+</p>
 
+### Social Media
 <p>
   <a href="https://www.instagram.com/lara_souza429/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -29,4 +32,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
 </p>
-
