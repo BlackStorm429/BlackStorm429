@@ -18,6 +18,10 @@
 ### Tools
 <p>
   <img src="https://camo.githubusercontent.com/cc27afe34c0ab71353f9c2b32d3085aa3baacb0b4cb1e6e14e2b21d656212fe4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c7673636f64652c6669676d612c646973636f72642c" />
+  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="60" width="60" border-radius="12px" alt="Verilog logo" />
+  <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="60" width="60" border-radius="12px" alt="SQL logo" />
+  <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" height="60" width="60" border-radius="12px" alt="Assembly logo" />
+  
 </p>
 
 ### Social Media
