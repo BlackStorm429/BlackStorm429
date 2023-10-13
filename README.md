@@ -12,7 +12,6 @@
 </div>
 
 ### Languages
-<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -22,10 +21,8 @@
   <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="30" width="42" alt="Verilog logo" />
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="30" width="42" alt="SQL logo" />
   <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" height="30" width="42" alt="Assembly logo" />
-</div>
 
 ### Social Media
-<div align="center">
   <a href="https://www.instagram.com/lara_souza429/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <a href="mailto:larasouza429@gmail.com" target="_blank">
@@ -34,4 +31,3 @@
   <a href="https://discord.com/users/larasouza429" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-</div>
