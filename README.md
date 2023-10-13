@@ -13,7 +13,7 @@
 ### Languages
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="border-radius:12;" height="60" width="60"  alt="html5 logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="border-radius: 12px;" height="60" width="60"  alt="html5 logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" width="60" border-radius="12px" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" border-radius="12px" alt="javascript logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" width="60" border-radius="12px" alt="C logo" />
