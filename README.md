@@ -11,7 +11,7 @@
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blackstorm429&theme=dracula&hide_border=false" alt="GitHub Streak" />-->
 </div>
 
-## Languages
+### Languages
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" height="30" width="42" alt="Assembly logo" />
 </div>
 
-## Social Media
+### Social Media
 <div align="center">
   <a href="https://www.instagram.com/lara_souza429/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
