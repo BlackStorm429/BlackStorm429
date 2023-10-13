@@ -1,4 +1,4 @@
-<h2 align="center">Hello my name is Lara, and I'm from Brazil!</h2>
+<h2 align="center">Hello my name is Lara and I'm from Brazil!</h2>
 
 - 💡 Estou no 4° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
 - 📜 Aprendendo sobre as linguagens C, C++, Java, HTML, CSS, JavaScript, Verilog, SQL e Assembly.
@@ -13,7 +13,9 @@
 ### Languages
 <p>
   <img src="https://camo.githubusercontent.com/c2b1ed2803894e042e9fe8b411a627d1a6c0ccc7fbf6da80416926aeb2ad2404/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c6a732c68746d6c2c6373732c632c6370702c6373" />
-  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="60" width="60" border-radius="12px" alt="Verilog logo" />
+  <span style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px;">
+  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="50" width="50" alt="Verilog logo" style="background-color: white; padding: 10px; border-radius: 5px;" />
+</span>
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="60" width="60" border-radius="12px" alt="SQL logo" />
   <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" height="60" width="60" border-radius="12px" alt="Assembly logo" />
 </p>
