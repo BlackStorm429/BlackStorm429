@@ -1,10 +1,5 @@
 <h2 align="center">Hello my name is Lara, and I'm from Brazil!</h2>
 
-- 💡 Estou no 4° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
-- 📜 Aprendendo sobre as linguagens C, C++, Java, HTML, CSS, JavaScript, Verilog, SQL e Assembly.
-- 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
-- 📫 Contate-me pelo e-mail: [larasouza429@gmail.com](mailto:larasouza429@gmail.com)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Blackstorm429" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Blackstorm429" height="150" alt="languages graph" />
