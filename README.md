@@ -34,4 +34,7 @@
   <a href="https://discord.com/users/larasouza429" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
+  <a href="https://www.linkedin.com/in/lara-br%C3%ADgida-rezende-souza-588939113/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=" height="35" alt="linkedim logo" />
+  </a>
 </p>
