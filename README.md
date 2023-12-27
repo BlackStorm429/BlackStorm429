@@ -1,4 +1,4 @@
-<h2 align="center">Hello my name is Lara and I'm from Brazil!</h2>
+<h2 align="center">Hello, my name is Lara and I'm from Brazil!</h2>
 
 - 💡 Estou no 4° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
 - 📜 Aprendendo sobre as linguagens C, C++, Java, HTML, CSS, JavaScript, Verilog, SQL e Assembly.
