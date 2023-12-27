@@ -20,7 +20,9 @@
 
 ## Certifications
 
-[![Cisco Badge](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)]((https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity))
+<a href="https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity">
+  <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Badge">
+</a>
 
 ### Tools
 <p>
