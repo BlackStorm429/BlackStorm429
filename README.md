@@ -12,7 +12,15 @@
 
 ### Languages
 <p>
-  <img src="https://camo.githubusercontent.com/c2b1ed2803894e042e9fe8b411a627d1a6c0ccc7fbf6da80416926aeb2ad2404/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c6a732c68746d6c2c6373732c632c6370702c6373" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height="60" width="60"/>
+  <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" height="60" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="60" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" height="60" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="60" width="60"/>
+  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" height="60" width="60"/>
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-efaced6ead51ad10afab1cb511d5da12" height="60" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/800px-Swift_logo.svg.png" height="60" width="60"/>
+  <img src="https://elixir-lang.org/images/logo/logo.png" height="60" width="60"/>
   <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" height="60" width="60" border-radius="12px" alt="Assembly logo" />
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="60" width="60" border-radius="12px" alt="SQL logo" />
   <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="60" width="60" border-radius="12px" coloralt="Verilog logo" />
