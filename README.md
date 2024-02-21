@@ -26,7 +26,9 @@
 
 ### Tools
 <p>
-  <img src="[https://camo.githubusercontent.com/cc27afe34c0ab71353f9c2b32d3085aa3baacb0b4cb1e6e14e2b21d656212fe4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c7673636f64652c6669676d612c646973636f72642c](https://avatars.githubusercontent.com/u/5155369?s=200&v=4)](https://avatars.githubusercontent.com/u/5155369?s=200&v=4)" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>
+  <img src="https://store-images.s-microsoft.com/image/apps.47763.13959754522315136.87be3224-9693-4fd4-8cd4-af6362fb8d37.b3c24453-164b-4d03-b561-e77aec7c076a"/>
 </p>
 
 ### Social Media
