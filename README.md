@@ -14,13 +14,14 @@
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height="60" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="60" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="60" width="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" height="60" width="60"/>
+  <img src="https://static-00.iconduck.com/assets.00/csharp-icon-1755x2048-5r3ugs1f.png" height="60" weight="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="60" width="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html5-41-1175209.png" height="60" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="60" width="60"/>
-  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" height="60" width="80"/>
-  <img src="https://qph.cf2.quoracdn.net/main-qimg-efaced6ead51ad10afab1cb511d5da12" height="60" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/800px-Swift_logo.svg.png" height="60" width="100"/>
-  <img src="https://elixir-lang.org/images/logo/logo.png" height="60" width="100"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png" height="60" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="60" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/800px-Swift_logo.svg.png" height="40" width="100"/>
+  <img src="https://elixir-lang.org/images/logo/logo.png" height="40" width="100"/>
   <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" height="60" width="60" border-radius="12px" alt="Assembly logo" />
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="60" width="60" border-radius="12px" alt="SQL logo" />
   <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="60" width="60" border-radius="12px" coloralt="Verilog logo" />
