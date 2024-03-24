@@ -29,7 +29,7 @@
 
 ## Certifications
 
-<a href="https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity">
+<a href="https://www.credly.com/badges/841bf403-6f31-4292-aa06-2e182a948649/public_url">
   <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Badge">
 </a>
 
