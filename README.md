@@ -59,7 +59,7 @@
 <p> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="60" width="60"/> 
  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="60" width="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="60" width="60" alt="Figma logo"/> 
   
   <img src="https://store-images.s-microsoft.com/image/apps.47763.13959754522315136.87be3224-9693-4fd4-8cd4-af6362fb8d37.b3c24453-164b-4d03-b561-e77aec7c076a" height="60" width="60"/> 
   
@@ -71,13 +71,9 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="60" width="60" alt="Postman logo"/> 
   
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="60" width="60" alt="IntelliJ logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="60" width="60" alt="IntelliJ logo"/> 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="60" width="60" alt="GitLab logo"/> 
-  
-  <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" height="60" width="60" alt="New Relic logo"/> 
-  
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="60" width="60" alt="Expo logo"/> 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="60" width="60" alt="GitHub logo"/> 
   
