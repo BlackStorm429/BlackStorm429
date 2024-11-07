@@ -1,7 +1,7 @@
 <h2 align="center">Hello, my name is Lara and I'm from Brazil!</h2>
 
 💡 Estou no 4° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
-📜 Aprendendo sobre as linguagens C, C++, Java, Swift, Python, HTML, CSS, JavaScript, React, Node.js, TypeScript, Verilog, SQL e Assembly.
+📜 Aprendendo sobre as linguagens C, C++, C#, Java, Swift, Python, Elixir, HTML, CSS, JavaScript, TypeScript, React Native, Node.js, Dart, Flutter, Arduino, SQL, Verilog e Assembly.
 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 📫 Contate-me pelo e-mail: larasouza429@gmail.com
 
@@ -14,15 +14,21 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="60" width="60" alt="C++ logo"/> 
   <img src="https://static-00.iconduck.com/assets.00/csharp-icon-1755x2048-5r3ugs1f.png" height="60" width="60" alt="C# logo"/> 
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="60" width="40" alt="Java logo"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/800px-Swift_logo.svg.png" height="40" width="100" alt="Swift logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="60" width="60" alt="Python logo"/>
+  <img src="https://elixir-lang.org/images/logo/logo.png" height="40" width="100" alt="Elixir logo"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-html5-41-1175209.png" height="60" width="60" alt="HTML logo"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="60" width="60" alt="CSS logo"/> 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png" height="60" width="60" alt="JavaScript logo"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="60" width="60" alt="Python logo"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/800px-Swift_logo.svg.png" height="40" width="100" alt="Swift logo"/> 
-  <img src="https://elixir-lang.org/images/logo/logo.png" height="40" width="100" alt="Elixir logo"/> 
-  <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" height="60" width="60" alt="Assembly logo" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png" height="60" width="60" alt="JavaScript logo"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png" height="60" width="60" alt="TypeScript logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="60" width="60" alt="React Native logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="60" alt="Node.js logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" height="60" width="60" alt="Dart logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="60" width="60" alt="Flutter logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="60" width="60" alt="Arduino logo"/>
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="60" width="60" alt="SQL logo" /> 
   <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="60" width="60" alt="Verilog logo" /> 
+  <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" height="60" width="60" alt="Assembly logo" />
 </p>
 
 ### Certifications
