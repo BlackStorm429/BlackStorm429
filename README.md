@@ -1,6 +1,6 @@
 <h2 align="center">Hello, my name is Lara and I'm from Brazil!</h2>
 
-💡 Estou no 4° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
+💡 Estou no 7° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
 📜 Aprendendo sobre as linguagens C, C++, C#, Java, Swift, Python, Elixir, HTML, CSS, JavaScript, TypeScript, React Native, Node.js, Dart, Flutter, Arduino, SQL, Verilog e Assembly.
 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 📫 Contate-me pelo e-mail: larasouza429@gmail.com
@@ -50,7 +50,7 @@
 </p>
 
 ### Certifications
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: flex-start; gap: 20px;">
   <a href="https://www.credly.com/badges/841bf403-6f31-4292-aa06-2e182a948649/public_url">
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Badge">
   </a>
