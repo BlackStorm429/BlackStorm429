@@ -49,18 +49,15 @@
  <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" height="60" width="60" alt="Assembly logo" />
 </p>
 
-### 
-<p>
-  <a 
-    href="https://www.credly.com/badges/841bf403-6f31-4292-aa06-2e182a948649/public_url"> 
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Badge"> 
+### Certifications
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.credly.com/badges/841bf403-6f31-4292-aa06-2e182a948649/public_url">
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Badge">
   </a>
-  
-  <a 
-    href="https://www.credly.com/earner/earned/share/fb5672e1-2fc5-472d-ad83-b68bac394039"> 
-    <img src="https://images.credly.com/size/220x220/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="150" alt="Cisco Badge"> 
+  <a href="https://www.credly.com/earner/earned/share/fb5672e1-2fc5-472d-ad83-b68bac394039">
+    <img src="https://images.credly.com/size/220x220/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="150" alt="Cisco Badge">
   </a>
- </p>
+</div>
 
 ### Tools
 <p> 
