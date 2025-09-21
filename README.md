@@ -55,7 +55,7 @@
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Badge">
   </a>
   <a href="https://www.credly.com/earner/earned/share/28a0c324-9602-42ff-94b7-5cffc91976b5">
-    <img src="https://images.credly.com/size/220x220/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="150" alt="Cisco Badge">
+    <img src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="150" alt="Cisco Badge">
   </a>
   <a href="https://www.credly.com/earner/earned/share/fb5672e1-2fc5-472d-ad83-b68bac394039">
     <img src="https://images.credly.com/size/220x220/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="150" alt="Cisco Badge">
