@@ -60,7 +60,10 @@
   <a href="https://www.credly.com/earner/earned/share/fb5672e1-2fc5-472d-ad83-b68bac394039">
     <img src="https://images.credly.com/size/220x220/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="150" alt="Cisco Badge">
   </a>
-</div>
+  <a href="https://www.credly.com/earner/earned/share/fb5672e1-2fc5-472d-ad83-b68bac394039">
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ac113530-cbbc-484a-8d83-34f17d5498d9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+  </a>
 
 ### Tools
 <p> 
