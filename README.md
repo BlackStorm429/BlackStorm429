@@ -1,4 +1,4 @@
-<h2 align="center">Hello, my name is Lara and I'm from Brazil!</h2>
+<img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/19ac0adf-c2bb-416f-972a-6a751a4d1dc2" /><h2 align="center">Hello, my name is Lara and I'm from Brazil!</h2>
 
 💡 Estou no 7° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
 📜 Aprendendo sobre as linguagens C, C++, C#, Java, Swift, Python, Elixir, HTML, CSS, JavaScript, TypeScript, React Native, Node.js, Dart, Flutter, Arduino, SQL, Verilog e Assembly.
@@ -62,7 +62,7 @@
   </a>
   <!-- Último badge padronizado -->
   <a href="https://www.credly.com/badges/ac113530-cbbc-484a-8d83-34f17d5498d9/public_url">
-    <img src="https://images.credly.com/size/220x220/images/ac113530-cbbc-484a-8d83-34f17d5498d9/image.png" width="150" alt="Credly Badge">
+    <img src="[https://images.credly.com/size/220x220/images/ac113530-cbbc-484a-8d83-34f17d5498d9/image.png](https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob)" width="150" alt="Credly Badge">
   </a>
 </div>
 
