@@ -1,6 +1,6 @@
 Hello, my name is Lara and I'm from Brazil!</h2>
 
-💡 Estou no 7° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
+💡 Estou no 8° período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
 📜 Aprendendo sobre as linguagens C, C++, C#, Java, Swift, Python, Elixir, HTML, CSS, JavaScript, TypeScript, React Native, Node.js, Dart, Flutter, Arduino, SQL, Verilog e Assembly.
 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 📫 Contate-me pelo e-mail: larasouza429@gmail.com
